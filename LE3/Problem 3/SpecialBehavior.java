@@ -1,0 +1,4 @@
+
+interface SpecialBehavior {
+    void specialSound();
+}
